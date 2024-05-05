@@ -3,11 +3,11 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" consent="width=device-width,initial-scale=0.1">
-   <title>KroShet</title>
+   <title>KroShet </title>
 
 <link href="css.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
-<script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"> </script>
 
 </head>
 <body>
@@ -30,9 +30,6 @@
          </div>
          <h1 onclick="showMenu()"><i class="fa-solid fa-bars"></i></h1>
       </nav>
-
-
-</div>
 
 </header>
 
